@@ -191,7 +191,7 @@ button:hover {
     }
     body {
         background: url("images/ps5.jfif") no-repeat center;
-        background-size: cover;
+        background-size: 100% 100%;
     }
     #menulist {
         overflow: hidden;
