@@ -166,10 +166,7 @@ button:hover {
 }
 
 @media only screen and (max-width:396px) {
-   .col-1 {
-        flex-basis: 90%;
 
-    }
     .col-1 h2{
         font-size: 25px;
     }
