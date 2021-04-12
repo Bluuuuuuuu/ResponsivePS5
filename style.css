@@ -166,9 +166,12 @@ button:hover {
 }
 
 @media only screen and (max-width:396px) {
-    .col-1 {
-    flex-basis: 200%;
-    }
+   .col-1 h2{
+    font-size: 30px;
+}
+.col-1 h3{
+    font-size: 25px;
+}
     nav ul {
        width: 100%;
        position: absolute;
