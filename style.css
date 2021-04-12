@@ -4,13 +4,8 @@
     font-family: sans-serif;
 }
 body { 
-   background: url("images/ps5.jfif") no-repeat center;
-   height: 100%;
-
-   /* Center and scale the image nicely */
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+   background: url("images/ps5.jfif");
+   background-size: 100% 100%;
 }
 .container {
     width: 100%;
