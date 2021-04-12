@@ -165,8 +165,11 @@ button:hover {
     text-align: center;
 }
 
-@media only screen and (max-width:400px) {
-    
+@media only screen and (max-width:396px) {
+    .col-1 {
+    flex-basis: 200%;
+
+}
     nav ul {
        width: 100%;
        position: absolute;
