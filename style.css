@@ -179,7 +179,6 @@ button:hover {
        top: 75px;
        right: 0;
        z-index: 2;
-       padding: 15px;
     }
     nav ul li {
         display: block;
@@ -197,10 +196,10 @@ button:hover {
     }
     body {
         background: url("images/ps5.jfif") no-repeat center;
-        height: 30%;
-   /* Center and scale the image nicely */
-        background-position: center;
-        background-repeat: no-repeat;
         background-size: cover;
+    }
+    #menulist {
+        overflow: hidden;
+        transition: 0.5s;
     }
 }
